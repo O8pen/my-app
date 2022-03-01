@@ -1,3 +1,10 @@
+https://reactjs.org/tutorial/tutorial.html
+Overview
+Now that you’re set up, let’s get an overview of React!
+
+What Is React?
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
